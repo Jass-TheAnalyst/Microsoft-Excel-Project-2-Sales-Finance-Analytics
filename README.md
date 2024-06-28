@@ -1,5 +1,5 @@
 # Microsoft-Excel-Project-2-Sales-Finance-Analytics
-
+<img src="https://img.lovepik.com/photo/40169/8241.jpg_wh300.jpg" alt="sales&finance-analytics" height="400" width="1000">
 # Excel-Sales-Analytics
 This repository represents the Advance Microsoft Excel Projects ( Topic : Sales &amp; Finance Analytics )
 
